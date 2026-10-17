@@ -1,0 +1,7 @@
+{
+  "name": "Mystery Message Decoder",
+  "description": "An interactive cryptography and secret message tool for students to decode and encode mysterious ciphers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
